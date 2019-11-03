@@ -1,0 +1,10 @@
+.word-container div{
+    display: inline-flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.char {
+    font-size: 24px;
+}
